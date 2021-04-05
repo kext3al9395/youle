@@ -24,7 +24,7 @@ zhiliao=[qun=暂无‖直播公告2=全网视频在线免费观看，喜欢的�
 
 <ADMIN40000>
 *@pay：0->关闭,1->在线支付,2->网页购买,3->自由选择
-400000={@pay="2",@UserName="MM10000",@RechargeApi="http://w.eydata.net/b37a9991e4e0a3fa"};
+400000={@pay="2",@UserName="MM10000",@RechargeApi="http://w.eydata.net/00f45fd17a5874be"};
 100001={agent="https://gitee.com/zhenyi168/aishipin/raw/master/agent.txt"};
 100002={feedback="https://gitee.com/zhenyi168/aishipin/raw/master/feedback.txt"}
 100003={key="https://gitee.com/zhenyi168/aishipin/raw/master/key.txt"};
